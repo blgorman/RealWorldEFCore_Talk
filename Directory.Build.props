@@ -1,17 +1,19 @@
 <Project>
     <PropertyGroup>
         <TargetFrameworkVersion>net10.0</TargetFrameworkVersion>
-        <MicrosoftEntityFrameworkCoreVersion>10.0.0-rc.2.25502.107</MicrosoftEntityFrameworkCoreVersion>
-        <MicrosoftEntityFrameworkCoreSqlServerVersion>10.0.0-rc.2.25502.107</MicrosoftEntityFrameworkCoreSqlServerVersion>
-        <MicrosoftEntityFrameworkCoreToolsVersion>10.0.0-rc.2.25502.107</MicrosoftEntityFrameworkCoreToolsVersion>
-        <MicrosoftEntityFrameworkCoreDesignVersion>10.0.0-rc.2.25502.107</MicrosoftEntityFrameworkCoreDesignVersion>
-        <MicrosoftExtensionsConfigurationVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsConfigurationVersion>
-        <MicrosoftExtensionsConfigurationJsonVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsConfigurationJsonVersion>
-        <MicrosoftExtensionsEnvironmentVariablesConfigurationVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsEnvironmentVariablesConfigurationVersion>
-        <MicrosoftExtensionsConfigurationUserSecretsVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsConfigurationUserSecretsVersion>
-        <MicrosoftEntityFrameworkCoreProxiesVersion>10.0.0-rc.2.25502.107</MicrosoftEntityFrameworkCoreProxiesVersion>
-        <MicrosoftExtensionsDependencyInjectionVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsDependencyInjectionVersion>
-        <MicrosoftExtensionsHostingVersion>10.0.0-rc.2.25502.107</MicrosoftExtensionsHostingVersion>
+        <MicrosoftEntityFrameworkCoreVersion>10.0.1</MicrosoftEntityFrameworkCoreVersion>
+        <MicrosoftEntityFrameworkCoreSqlServerVersion>10.0.1</MicrosoftEntityFrameworkCoreSqlServerVersion>
+        <MicrosoftEntityFrameworkCoreToolsVersion>10.0.1</MicrosoftEntityFrameworkCoreToolsVersion>
+        <MicrosoftEntityFrameworkCoreDesignVersion>10.0.1</MicrosoftEntityFrameworkCoreDesignVersion>
+        <MicrosoftExtensionsConfigurationVersion>10.0.1</MicrosoftExtensionsConfigurationVersion>
+        <MicrosoftExtensionsConfigurationJsonVersion>10.0.1</MicrosoftExtensionsConfigurationJsonVersion>
+        <MicrosoftExtensionsEnvironmentVariablesConfigurationVersion>10.0.1</MicrosoftExtensionsEnvironmentVariablesConfigurationVersion>
+        <MicrosoftExtensionsConfigurationUserSecretsVersion>10.0.1</MicrosoftExtensionsConfigurationUserSecretsVersion>
+        <MicrosoftEntityFrameworkCoreProxiesVersion>10.0.1</MicrosoftEntityFrameworkCoreProxiesVersion>
+        <MicrosoftExtensionsDependencyInjectionVersion>10.0.1</MicrosoftExtensionsDependencyInjectionVersion>
+        <MicrosoftExtensionsHostingVersion>10.0.1</MicrosoftExtensionsHostingVersion>
+        <MicrosoftEntityFrameworkCoreAbstractionsVersion>10.0.1</MicrosoftEntityFrameworkCoreAbstractionsVersion>
+        <MicrosoftExtensionsLoggingConsoleVersion>10.0.1</MicrosoftExtensionsLoggingConsoleVersion>
         <AutoMapperVersion>15.0.1</AutoMapperVersion>
     </PropertyGroup>
 </Project>
